@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BinarCodeChallange</string>
+    <string name="key_app_data">key_app_data</string>
+    <string name="label_login">LOGIN</string>
+    <string name="label_app_icon">label_app_icon</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="label_confirm_password">Confirm Password</string>
+    <string name="label_password">Password</string>
+    <string name="label_university_organization">University/Organization</string>
+    <string name="label_email_address">Email Address</string>
+    <string name="label_register">REGISTER</string>
+    <string name="msg_login_success">Login sukses</string>
+    <string name="msg_login_failed">Username atau password salah</string>
+    <string name="label_welcome_to_binar_app">Welcome To Binar App</string>
+
+    <string name="title_logout">Logout</string>
+</resources>
